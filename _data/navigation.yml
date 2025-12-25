@@ -4,19 +4,19 @@ main:
     url: "/zh-cn/#about-me"
 
   - title: "学历"
-    url: "/zh-cn/#-xl"
+    url: "/zh-cn/#-edu_background"
 
   - title: "论文"
     url: "/zh-cn/#-paper"
 
   - title: "专利"
-    rl: "/zh-cn/#-patent"
+    url: "/zh-cn/#-patent"
 
   - title: "荣誉奖项"
-    url: "/zh-cn/#-ryjx"
+    url: "/zh-cn/#-award"
 
   - title: "学术会议"
-    url: "/zh-cn/#-xshy"
+    url: "/zh-cn/#-conference"
 
   - title: "工作实习"
-    url: "/zh-cn/#-gzsx"
+    url: "/zh-cn/#-internship"
