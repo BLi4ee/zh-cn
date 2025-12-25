@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Boya Li(李博雅)"
+  name             : "李博雅"
   avatar           : "images/profile1.png"
-  bio              : "University of Electronic Science and Technology of China"
+  bio              : "电子科技大学 通信抗干扰全国重点实验室 硕士研究生"
   location         : "Chengdu, China"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
