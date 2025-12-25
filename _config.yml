@@ -9,6 +9,7 @@
 title                    : "Boya Li"
 description              : "Boya Li's Personal Website"
 repository               : "BLi4ee.github.io"
+baseurl                  : "/zh-cn" 
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -135,7 +136,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: ":baseurl/:categories/:title/"
 timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
