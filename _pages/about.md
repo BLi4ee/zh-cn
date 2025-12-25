@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi，我是李博雅，电子科技大学通信抗干扰全国重点实验室硕士在读。2019年，我毕业于北京工商大学人工智能学院。
+Hi，我是李博雅，电子科技大学通信抗干扰全国重点实验室硕士在读，师从[张蔺]副教授(https://scholar.google.com/citations?user=711SenAAAAAJ&hl=zh-CN)。2019年，我毕业于北京工商大学人工智能学院。
 
 
 我的研究兴趣包括：
