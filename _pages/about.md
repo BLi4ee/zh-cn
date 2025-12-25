@@ -38,7 +38,7 @@ Hi，我是李博雅，电子科技大学通信抗干扰全国重点实验室硕
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/CL2025.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CL 2025</div><img src='images/CL2025.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`B. Li`, L. Jia, L. Zhang, N. Qi, W. Tang and F. Adachi. Exploiting Large Language Models for Single-Channel Mix Source Separation in Anti-Jamming Wireless Communications. *IEEE Communications Letters*, vol. 30, pp. 422-426, 2026. (JCR:Q2; IF:4.4)  
