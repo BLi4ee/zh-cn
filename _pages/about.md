@@ -26,7 +26,7 @@ Hi，我是李博雅，电子科技大学通信抗干扰全国重点实验室硕
 - 深度强化学习
 - 大语言模型
 
-<p>我是一名充满热情的研究者，正在积极寻找博士生导师。我对[您的具体研究方向，如：计算机视觉、计算生物学等]领域充满兴趣，并期待与您共同探索前沿科学问题。欢迎感兴趣的导师通过邮件与我联系：<a href="mailto:liberty.in.ee@gmail.com">liberty.in.ee@gmail.com</a></p>
+<p style="color: red;">我正在积极寻找对以上领域充满兴趣的博士生导师。欢迎感兴趣的导师通过邮件与我联系：<a href="mailto:liberty.in.ee@gmail.com" style="color: red; text-decoration: underline;">liberty.in.ee@gmail.com</a></p>
 
 <span class='anchor' id='-education-background'></span>
 
